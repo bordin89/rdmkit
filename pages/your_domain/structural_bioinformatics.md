@@ -1,5 +1,5 @@
 ---
-title: Domain page title
+title: Structural Bioinformatics
 keywords: optional
 search: exclude
 contributors: [<!---REPLACE THIS with comma separated list of contributors--->]
@@ -34,5 +34,12 @@ For detailing the domain-specific challenges of a problem that is generic, pleas
 
 ## Relevant tools and resources  
 <!--- Automatically generated table; edit the TAG below to the tag for this page, so that tools that have this page's tag are listed here. You can get the tag for this page from the [list of tags](https://github.com/elixir-europe/rdmkit/blob/master/_data/tags.yml). If it isn't listed there, please raise an issue.--->
+
+    Public repositories of structural data: Protein Data Bank (PDB) and Electron Microscopy Data Bank (EMDB), and tools to search and analyse information in these   repositories from PDBe (Protein Data Bank in Europe) including PDBe-KB
+    UniProt and basic Sequence alignment tools
+    Protein structure analysis and classification: HMMER, InterPro, Pfam, CATH, PDBeFold, PDBePISA
+    Protein structure prediction and docking: PHYRE2 and HADDOCK
+    Structure validation and assessment tools and strategies
+    Tools and resources for drug discovery: ChEMBL
 
 {% include toollist.html tag="<!---TAG--->" %}
